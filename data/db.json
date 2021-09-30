@@ -1,0 +1,23 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Why do we use it? \nIt is a long established fact that etc...",
+            "author": "messi",
+            "id": 1
+        },
+        {
+            "title": "Opening Party",
+            "body": "Why do we use it? \nBe there at 11pm...",
+            "author": "ronaldo",
+            "id": 2
+        },
+        {
+            "title": "Fotball seminar",
+            "body": "Train with suarez!!",
+            "author": "ronaldo",
+            "id": 3
+        }
+        
+    ]
+}
